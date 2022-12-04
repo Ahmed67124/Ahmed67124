@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Emad
 - 👀 I’m interested in Robotics Engineering
 
-- 🌱 I’m currently working as a R&D Robotics Engineer in a company which works in many robotics projects in the middle east. I am mainly working on the motion and path planning of robotic arms using ROS, Python and SDK programming. I also used to work on a path planning method to enhance the path of a self driving car of a Formula Student racing team ...
+- 🌱 I'm currently working as a R&D Robotics Engineer in a company that works on numerous robotics projects in the Middle East. I primarily work on the motion and path planning of robotic arms using the ROS, Python, and SDK programming languages. I also used to work on a path planning method to improve the path of a self-driving car for a Formula Student racing team.
 
 
 - 💞️ I’m looking to collaborate in robotics industry
